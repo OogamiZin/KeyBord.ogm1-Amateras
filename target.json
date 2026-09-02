@@ -1,0 +1,18 @@
+{
+    "include": [
+        {
+            "keyboard": "ogm1_amateras",
+            "keymap": "vial",
+            "target": "uf2",
+            "flags": "EXTRAFLAGS=\"-DINIT_EE_HANDS_LEFT\"",
+            "name": "ogm1_amateras_vial_left"
+        },
+        {
+            "keyboard": "ogm1_amateras",
+            "keymap": "vial",
+            "target": "uf2",
+            "flags": "EXTRAFLAGS=\"-DINIT_EE_HANDS_RIGHT\"",
+            "name": "ogm1_amateras_vial_right"
+        }
+    ]
+}
